@@ -1,0 +1,2 @@
+# python-api-challenge
+This project involved generating a random list of at least 500 cities throughout the world, and recorded the data pertaining to longitude / latitude, cloudiness percentage, humidity, and wind speed using the openweather API.  After this was accomplished we took that data and analyzed it based on parameters that we established regarding our ideal vacation.  As part of this analysis we used GeoApify to find the nearest hotel within that city (if one was present) and plotted that on a map inside the Jupyter Notebook. 
